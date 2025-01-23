@@ -1,4 +1,12 @@
 {
+  "name": "ITP-DnD-Itembar",
+  "version": "1.0.0",
+  "description": "A project using gridstack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint ."
+  },
   "dependencies": {
     "gridstack": "^10.1.2"
   }
